@@ -37,7 +37,7 @@
 </td><td valign="top" width="33%">
 
 <br/>  
-</td><td valign="top" width="33%">
+<hr>
 
 ## Connect with me  
 <div align="center">
